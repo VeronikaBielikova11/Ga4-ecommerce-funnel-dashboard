@@ -1,4 +1,4 @@
-# GA4 Ecommerce Funnel Dashboard
+# GA4 Ecommerce Dashboard
 
 ## Overview
 
